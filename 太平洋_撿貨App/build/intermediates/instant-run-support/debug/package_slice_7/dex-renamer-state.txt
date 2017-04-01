@@ -1,0 +1,4 @@
+#Sun Apr 02 00:40:06 CST 2017
+base.0=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

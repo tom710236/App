@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_43e21cef1c6d7e68787ffaa8fc11e002d497cfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\21b7f8c70b32e687563e20882fcba39c602cbf08\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_82db23f25e92e0810b1947ea69b0904f18097a49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\21b7f8c70b32e687563e20882fcba39c602cbf08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\build\intermediates\pre-dexed\debug\classes_8879972da6e3c1fbb0f0da6712f8eb42d58a5080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\libs\bagastudio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a338aa04a06f5cf2a66fdfa066f5c373ab45235">
+        <dex dex="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\build\intermediates\pre-dexed\debug\bagastudio_5e4bffaeff65890d6d48d166446fb3abd38cc604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\libs\com.oem.barcode.sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08c016a6f3354cc2133002db827d5174a1efcf43">
+        <dex dex="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\build\intermediates\pre-dexed\debug\com.oem.barcode.sdk_e384962e39b3e4b7d6b218a92577ac46faef8d14.jar" />
+    </item>
+
+</items>

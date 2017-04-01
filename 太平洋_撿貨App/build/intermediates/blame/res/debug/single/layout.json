@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipment_list.xml",
+        "source": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\src\\main\\res\\layout\\activity_shipment_list.xml"
+    },
+    {
+        "merged": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_detail.xml",
+        "source": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\src\\main\\res\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_shipment.xml",
+        "source": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\src\\main\\res\\layout\\listrow_shipment.xml"
+    },
+    {
+        "merged": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_productitem.xml",
+        "source": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\src\\main\\res\\layout\\listrow_productitem.xml"
+    },
+    {
+        "merged": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_list.xml",
+        "source": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\src\\main\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_product.xml",
+        "source": "E:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\太平洋_撿貨App\\src\\main\\res\\layout\\listrow_product.xml"
+    }
+]

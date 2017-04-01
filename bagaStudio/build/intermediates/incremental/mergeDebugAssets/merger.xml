@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android-class\simple\AndroidEx\Ch10\App\bagaStudio\src\main\assets"><file name="com.oem.barcode.sdk.jar" path="E:\Android-class\simple\AndroidEx\Ch10\App\bagaStudio\src\main\assets\com.oem.barcode.sdk.jar"/></source><source path="E:\Android-class\simple\AndroidEx\Ch10\App\bagaStudio\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Android-class\simple\AndroidEx\Ch10\App\bagaStudio\src\debug\assets"/></dataSet></merger>

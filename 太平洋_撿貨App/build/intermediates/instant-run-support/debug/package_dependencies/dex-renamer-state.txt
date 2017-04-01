@@ -1,0 +1,19 @@
+#Sun Apr 02 00:40:05 CST 2017
+renamed.5=classes2.dex
+renamed.4=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes5.dex
+renamed.1=classes6.dex
+renamed.0=classes3.dex
+base.5=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_82db23f25e92e0810b1947ea69b0904f18097a49
+base.4=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8879972da6e3c1fbb0f0da6712f8eb42d58a5080
+base.3=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\bagastudio_5e4bffaeff65890d6d48d166446fb3abd38cc604
+base.2=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\com.oem.barcode.sdk_e384962e39b3e4b7d6b218a92577ac46faef8d14
+base.1=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\com.oem.barcode.sdk_d4d7f430efbbd345ef51e5f3e9f03ab479e30589
+base.0=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_43e21cef1c6d7e68787ffaa8fc11e002d497cfc9
+file.5=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_82db23f25e92e0810b1947ea69b0904f18097a49\\classes.dex
+file.4=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8879972da6e3c1fbb0f0da6712f8eb42d58a5080\\classes.dex
+file.3=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\bagastudio_5e4bffaeff65890d6d48d166446fb3abd38cc604\\classes.dex
+file.2=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\com.oem.barcode.sdk_e384962e39b3e4b7d6b218a92577ac46faef8d14\\classes.dex
+file.1=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\com.oem.barcode.sdk_d4d7f430efbbd345ef51e5f3e9f03ab479e30589\\classes.dex
+file.0=E\:\\Android-class\\simple\\AndroidEx\\Ch10\\App\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_43e21cef1c6d7e68787ffaa8fc11e002d497cfc9\\classes.dex

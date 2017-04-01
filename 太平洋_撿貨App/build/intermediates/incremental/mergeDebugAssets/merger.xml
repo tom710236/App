@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\user\.android\build-cache\21b7f8c70b32e687563e20882fcba39c602cbf08\output\assets"/></dataSet><dataSet config="main"><source path="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\src\main\assets"/><source path="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Android-class\simple\AndroidEx\Ch10\App\太平洋_撿貨App\src\debug\assets"/></dataSet></merger>
